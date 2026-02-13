@@ -19,28 +19,28 @@ Com base nessas informações, o sistema realiza a verificação e exibe uma men
 Objetivos da Atividade
  -
 
-*Trabalhar conceitos de:
+*Trabalhar conceitos de:*
 
--Manipulação de dados inseridos pelo usuário
+- Manipulação de dados inseridos pelo usuário
 
--Estruturas condicionais (if/else)
+- Estruturas condicionais (if/else)
 
--Comparações de valores
+- Comparações de valores
 
--Lógica de programação
+- Lógica de programação
 
--Aplicar validação de regras de negócio (nome autorizado + horário permitido)
+- Aplicar validação de regras de negócio (nome autorizado + horário permitido)
 
--Exibir mensagens dinâmicas na tela conforme o resultado da verificação
+- Exibir mensagens dinâmicas na tela conforme o resultado da verificação
 
  Regras de Funcionamento
 --
 
--O nome informado deve estar previamente cadastrado na lista de autorizados.
+- O nome informado deve estar previamente cadastrado na lista de autorizados.
 
--O horário de entrada deve ser antes das 22h.
+- O horário de entrada deve ser antes das 22h.
 
--Caso o nome não esteja na lista ou o horário seja inválido, o acesso será negado.
+- Caso o nome não esteja na lista ou o horário seja inválido, o acesso será negado.
 
 O sistema informa o resultado de forma visual, indicando:
 -
@@ -53,15 +53,15 @@ O sistema informa o resultado de forma visual, indicando:
  Conceitos Aplicados
  --
 
--Entrada de dados pelo usuário
+- Entrada de dados pelo usuário
 
--Conversão e manipulação de horário
+- Conversão e manipulação de horário
 
--Validação de condições múltiplas
+- Validação de condições múltiplas
 
--Atualização dinâmica de mensagens
+- Atualização dinâmica de mensagens
 
--Organização lógica de regras
+- Organização lógica de regras
 
  Conclusão
  --
